@@ -1,2 +1,5 @@
-# Proyecto-Final---Corte-2
-Proyecto académico de Digitales: implementación de infraestructura virtual con máquinas, contenedores y redes por dependencias. Incluye monitoreo con Grafana, despliegue web con Streamlit y auditorías del sistema.
+# 🚀 Proyecto Final - Segundo Corte: Infraestructura de Red y Virtualización
+
+## 📋 Descripción del Proyecto
+
+Este proyecto implementa una **infraestructura DevOps/NetOps completa** para una empresa tecnológica, combinando **virtualización, redes VLAN, contenedores Docker y sistemas de monitoreo** para crear un entorno corporativo segmentado y escalable.
