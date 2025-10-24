@@ -34,8 +34,6 @@ Este proyecto implementa una **infraestructura DevOps/NetOps completa** para una
 ### ✅ Implementados
 - ✅ Configuración de VLANs corporativas
 - ✅ Comunicación entre máquinas virtuales
-- ✅ Sistema de monitoreo con Prometheus + Grafana
-- ✅ Agentes Node Exporter en nodos críticos
 - ✅ Segmentación lógica por dependencias
 - ✅ Documentación técnica completa
 
@@ -103,14 +101,6 @@ sudo apt install qemu-kvm libvirt-daemon-system virt-manager
 sudo apt install docker.io docker-compose
 
 sudo apt install bridge-utils vlan
-
-## Configuración Básica
-
-git clone https://github.com/tuusuario/proyecto-infraestructura.git
-
-sudo ./scripts/setup_networks.sh
-
-docker-compose up -d
 
 ---
 
