@@ -50,3 +50,15 @@ Este proyecto implementa una **infraestructura DevOps/NetOps completa** para una
 | **Redes** | Cisco IOS, VLANs, Bridges, iptables |
 | **Monitoreo** | Prometheus, Grafana, Node Exporter |
 | **Sistemas** | Debian, Arch Linux, Rocky Linux, Fedora |
+
+---
+
+## 📁 Estructura del Proyecto
+
+proyecto_final/
+├── 📄 Documentación Overleaf/
+├── 🔧 Scripts de configuración/
+├── 🐳 Dockerfiles/
+├── 📊 Dashboards Grafana/
+├── 🔍 Capturas de red/
+└── 📋 Reportes técnicos/
