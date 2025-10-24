@@ -62,3 +62,15 @@ proyecto_final/
 ├── 📊 Dashboards Grafana/
 ├── 🔍 Capturas de red/
 └── 📋 Reportes técnicos/
+
+---
+
+## 🔗 Conectividad y VLANs
+
+| VLAN | Dependencia | Subnet | Propósito |
+|------|-------------|---------|-----------|
+| **VLAN 10** | Recursos Humanos | 10.0.10.0/24 | Gestión de personal |
+| **VLAN 20** | Tecnología | 10.0.20.0/24 | Infraestructura TI |
+| **VLAN 30** | Finanzas | 10.0.30.0/24 | Operaciones financieras |
+| **VLAN 40** | Comercial | 10.0.40.0/24 | Ventas y marketing |
+| **VLAN 99** | Management | 10.0.1.0/24 | Administración |
