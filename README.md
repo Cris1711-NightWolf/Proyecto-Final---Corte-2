@@ -91,3 +91,56 @@ proyecto_final/
 - Node Exporter Full (ID: 1860)
 - Métricas personalizadas por dependencia
 - Alertas y thresholds configurados
+
+---
+
+## 🚀 Cómo Ejecutar
+
+### Prerrequisitos
+
+sudo apt install qemu-kvm libvirt-daemon-system virt-manager
+
+sudo apt install docker.io docker-compose
+
+sudo apt install bridge-utils vlan
+
+## Configuración Básica
+
+git clone https://github.com/tuusuario/proyecto-infraestructura.git
+
+sudo ./scripts/setup_networks.sh
+
+docker-compose up -d
+
+---
+
+## 📸 Evidencias
+
+El proyecto incluye capturas de:
+
+- 🔧 Configuración del switch Cisco
+- 🌐 Comunicación entre VLANs
+- 📊 Dashboards de Grafana
+- 🐳 Contenedores en ejecución
+- 🔍 Pruebas de conectividad
+
+---
+
+## 👥 Autores
+
+- Yojan Contreras
+- Cristian Losada
+
+## 👨‍🏫 Docente:
+
+- Ing. Diego Alejandro Barragán Vargas
+
+## 🏫 Institución:
+
+- Universidad Santo Tomás
+- Facultad de Ingeniería Electrónica
+- Bogotá D.C., Octubre 2025
+
+### ⭐ ¡Si este proyecto te parece útil, no olvides darle una estrella en GitHub!
+
+##### "De la teoría a la práctica: construyendo el futuro de la infraestructura TI" 🚀
