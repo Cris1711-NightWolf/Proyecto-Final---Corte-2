@@ -38,3 +38,15 @@ Este proyecto implementa una **infraestructura DevOps/NetOps completa** para una
 - ✅ Agentes Node Exporter en nodos críticos
 - ✅ Segmentación lógica por dependencias
 - ✅ Documentación técnica completa
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Virtualización** | KVM/QEMU, Virt-Manager |
+| **Contenedores** | Docker, Docker Networks |
+| **Redes** | Cisco IOS, VLANs, Bridges, iptables |
+| **Monitoreo** | Prometheus, Grafana, Node Exporter |
+| **Sistemas** | Debian, Arch Linux, Rocky Linux, Fedora |
