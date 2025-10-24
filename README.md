@@ -74,3 +74,20 @@ proyecto_final/
 | **VLAN 30** | Finanzas | 10.0.30.0/24 | Operaciones financieras |
 | **VLAN 40** | Comercial | 10.0.40.0/24 | Ventas y marketing |
 | **VLAN 99** | Management | 10.0.1.0/24 | Administración |
+
+---
+
+## 📊 Sistema de Monitoreo
+
+### 🎛️ Métricas Recopiladas
+
+- **CPU Usage** 🖥️
+- **Memory Utilization** 💾
+- **Disk I/O** 💽
+- **Network Traffic** 🌐
+- **Container Metrics** 🐳
+
+### 📈 Dashboards Implementados
+- Node Exporter Full (ID: 1860)
+- Métricas personalizadas por dependencia
+- Alertas y thresholds configurados
