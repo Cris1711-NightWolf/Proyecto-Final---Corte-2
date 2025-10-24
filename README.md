@@ -26,3 +26,15 @@ Este proyecto implementa una **infraestructura DevOps/NetOps completa** para una
 	    - Bridges Linux para segmentación
 		  - Comunicación inter-VLAN
 		    - Configuración de gateways y rutas
+
+---
+
+## 🎯 Objetivos Cumplidos
+
+### ✅ Implementados
+- ✅ Configuración de VLANs corporativas
+- ✅ Comunicación entre máquinas virtuales
+- ✅ Sistema de monitoreo con Prometheus + Grafana
+- ✅ Agentes Node Exporter en nodos críticos
+- ✅ Segmentación lógica por dependencias
+- ✅ Documentación técnica completa
